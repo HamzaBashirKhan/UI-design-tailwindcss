@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/UI-design-tailwindcss/static/css/main.0bfd9cfb.css",
+    "main.js": "/UI-design-tailwindcss/static/js/main.a10c24cd.js",
+    "static/media/Team 4.png": "/UI-design-tailwindcss/static/media/Team 4.8a98cd174cc3597e9b51.png",
+    "static/media/image 1.png": "/UI-design-tailwindcss/static/media/image 1.833b3f2791d4763ad02d.png",
+    "static/media/Shape.png": "/UI-design-tailwindcss/static/media/Shape.48464e1fb770d4d137fa.png",
+    "static/media/Group 37.png": "/UI-design-tailwindcss/static/media/Group 37.0d61490c928322440f12.png",
+    "static/media/Group 43.png": "/UI-design-tailwindcss/static/media/Group 43.9369c393c05cb27797cb.png",
+    "index.html": "/UI-design-tailwindcss/index.html",
+    "main.0bfd9cfb.css.map": "/UI-design-tailwindcss/static/css/main.0bfd9cfb.css.map",
+    "main.a10c24cd.js.map": "/UI-design-tailwindcss/static/js/main.a10c24cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bfd9cfb.css",
+    "static/js/main.a10c24cd.js"
+  ]
+}
